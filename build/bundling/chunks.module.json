@@ -1,0 +1,115 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "9202a41d37ec9dee5838",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\victo\\Desktop\\frontity\\build\\static",
+  "assetsByChunkName": {
+    "frontity": "frontity.module.js",
+    "vendors~archive": "vendors~archive.module.js"
+  },
+  "assets": [
+    {
+      "name": "fonts/KelsonSans-Bold.ttf",
+      "size": 67072,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "node_modules/frontity-chakra-theme/src/fonts/KelsonSans-Bold.ttf"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/KelsonSans-Bold.woff",
+      "size": 21548,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "node_modules/frontity-chakra-theme/src/fonts/KelsonSans-Bold.woff"
+      },
+      "emitted": false
+    },
+    {
+      "name": "frontity.module.js",
+      "size": 14970956,
+      "chunks": [
+        "frontity"
+      ],
+      "chunkNames": [
+        "frontity"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/pattern-tile-green.svg",
+      "size": 74467,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "node_modules/frontity-chakra-theme/src/assets/pattern-tile-green.svg"
+      },
+      "emitted": false
+    },
+    {
+      "name": "images/pattern-tile-light-fade.svg",
+      "size": 95727,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "node_modules/frontity-chakra-theme/src/assets/pattern-tile-light-fade.svg"
+      },
+      "emitted": false
+    },
+    {
+      "name": "vendors~archive.module.js",
+      "size": 94262,
+      "chunks": [
+        "vendors~archive"
+      ],
+      "chunkNames": [
+        "vendors~archive"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "frontity": {
+      "chunks": [
+        "frontity"
+      ],
+      "assets": [
+        "frontity.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "archive": {
+      "chunks": [
+        "vendors~archive"
+      ],
+      "assets": [
+        "vendors~archive.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "frontity",
+      "files": [
+        "frontity.module.js"
+      ]
+    },
+    {
+      "id": "vendors~archive",
+      "files": [
+        "vendors~archive.module.js"
+      ]
+    }
+  ]
+}
