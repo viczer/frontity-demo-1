@@ -3,7 +3,7 @@ const settings = {
   "state": {
     "frontity": {
       "url": "https://test.frontity.org",
-      "title": "Test Frontity Blog",
+      "title": "Blog",
       "description": "WordPress installation for Frontity development"
     }
   },
@@ -13,7 +13,7 @@ const settings = {
       state: {
         theme: {
           // The logo can be a text or an image url
-          logo: "Frontity",
+          logo: "Itelite",
           // show background pattern
           showBackgroundPattern: true,
           // show social links
